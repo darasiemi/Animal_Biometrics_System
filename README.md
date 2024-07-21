@@ -5,4 +5,4 @@ In our implementation, we have provided Jupyter notebooks which were used to tra
 The training was done using a Google Colab account which enabled the team to have better computational resources. To reimplement the work, any platform with GPUs can be used. However, the paths to the folders must be changed accordingly.
 A step-by-step guide of the implementation is provided in the code documentation which is as comments and markdowns in the respective Jupyter notebooks.
 
-Preprint: (paper)[https://arxiv.org/abs/2311.08148]
+Preprint: [paper](https://arxiv.org/abs/2311.08148)
